@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ArbolGeneral",
+      "appliesTo": "Tp_n1/ArbolGeneral.cs",
+      "type": "launch"
+    }
+  ]
+}
